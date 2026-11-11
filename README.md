@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mani-Mall387/leetCode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
