@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mani-Mall387/leetCode/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
