@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mani-Mall387/leetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Mani-Mall387/leetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mani-Mall387/leetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mani-Mall387/leetCode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mani-Mall387/leetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mani-Mall387/leetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
